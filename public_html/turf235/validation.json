@@ -1,0 +1,56 @@
+{
+  "M1": {
+    "errors": [],
+    "max_answer_repeat": 1,
+    "unique_source_statements": 150,
+    "max_questions_per_source_statement": 1
+  },
+  "M2": {
+    "errors": [],
+    "max_answer_repeat": 2,
+    "unique_source_statements": 150,
+    "max_questions_per_source_statement": 1
+  },
+  "M3": {
+    "errors": [],
+    "max_answer_repeat": 2,
+    "unique_source_statements": 150,
+    "max_questions_per_source_statement": 1
+  },
+  "M4": {
+    "errors": [],
+    "max_answer_repeat": 2,
+    "unique_source_statements": 150,
+    "max_questions_per_source_statement": 1
+  },
+  "M5": {
+    "errors": [],
+    "max_answer_repeat": 2,
+    "unique_source_statements": 150,
+    "max_questions_per_source_statement": 1
+  },
+  "M6": {
+    "errors": [],
+    "max_answer_repeat": 2,
+    "unique_source_statements": 137,
+    "max_questions_per_source_statement": 2
+  },
+  "M7": {
+    "errors": [],
+    "max_answer_repeat": 2,
+    "unique_source_statements": 150,
+    "max_questions_per_source_statement": 1
+  },
+  "M8": {
+    "errors": [],
+    "max_answer_repeat": 2,
+    "unique_source_statements": 150,
+    "max_questions_per_source_statement": 1
+  },
+  "M9": {
+    "errors": [],
+    "max_answer_repeat": 2,
+    "unique_source_statements": 101,
+    "max_questions_per_source_statement": 2
+  }
+}

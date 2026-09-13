@@ -1,0 +1,138 @@
+{
+  "total_questions": 500,
+  "distribution": {
+    "M1": 45,
+    "M2": 55,
+    "M3": 60,
+    "M4": 50,
+    "M5": 90,
+    "M6": 44,
+    "M7": 50,
+    "M8": 84,
+    "M9": 22
+  },
+  "max_exact_answer_repeats_within_module": 2,
+  "candidate_facts": 1067,
+  "module_cards": {
+    "M1": 9,
+    "M2": 8,
+    "M3": 8,
+    "M4": 8,
+    "M5": 12,
+    "M6": 7,
+    "M7": 16,
+    "M8": 5,
+    "M9": 7
+  },
+  "reading_map": {
+    "M1": [
+      [
+        "Chapter 1",
+        "Chapter_1_Introduction.pdf",
+        null
+      ]
+    ],
+    "M2": [
+      [
+        "Chapter 2 pp. 16\u201319",
+        "Chapter_2_Growth_and_Development.pdf",
+        [
+          16,
+          19,
+          10
+        ]
+      ],
+      [
+        "Chapter 3 p. 82",
+        "Chapter_3_Turfgrass_Species.pdf",
+        [
+          82,
+          82,
+          54
+        ]
+      ]
+    ],
+    "M3": [
+      [
+        "Chapter 2 pp. 21\u201331",
+        "Chapter_2_Growth_and_Development.pdf",
+        [
+          21,
+          31,
+          10
+        ]
+      ]
+    ],
+    "M4": [
+      [
+        "Chapter 2 pp. 19\u201322",
+        "Chapter_2_Growth_and_Development.pdf",
+        [
+          19,
+          22,
+          10
+        ]
+      ],
+      [
+        "Chapter 2 pp. 31\u201334",
+        "Chapter_2_Growth_and_Development.pdf",
+        [
+          31,
+          34,
+          10
+        ]
+      ]
+    ],
+    "M5": [
+      [
+        "Chapter 2 pp. 22\u201353",
+        "Chapter_2_Growth_and_Development.pdf",
+        [
+          22,
+          53,
+          10
+        ]
+      ]
+    ],
+    "M6": [
+      [
+        "9th ed. Ch. 8 p. 19, 31, 310\u2013315",
+        "NOT_INCLUDED_9TH_EDITION",
+        null
+      ]
+    ],
+    "M7": [
+      [
+        "Chapter 3 pp. 56\u201360",
+        "Chapter_3_Turfgrass_Species.pdf",
+        [
+          56,
+          60,
+          54
+        ]
+      ]
+    ],
+    "M8": [
+      [
+        "Chapter 3 pp. 60\u201383",
+        "Chapter_3_Turfgrass_Species.pdf",
+        [
+          60,
+          83,
+          54
+        ]
+      ]
+    ],
+    "M9": [
+      [
+        "Chapter 3 pp. 64\u201366",
+        "Chapter_3_Turfgrass_Species.pdf",
+        [
+          64,
+          66,
+          54
+        ]
+      ]
+    ]
+  }
+}
