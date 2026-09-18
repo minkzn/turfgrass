@@ -6949,6 +6949,296 @@
     "kind": "module"
   },
   {
+    "id": "m7q054",
+    "module": "M7",
+    "question": "Birmingham, Alabama, has a ________ climatic type.",
+    "correct": "subtropical-humid",
+    "options": [
+      "subtropical-humid",
+      "subtropical-dry summer",
+      "tropical wet",
+      "tropical wet&dry"
+    ],
+    "feedback": "Birmingham has a humid subtropical climate — warm with rainfall spread through the year, like Tulsa (Cfa) in the module examples.",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q055",
+    "module": "M7",
+    "question": "Indicate whether warm- or cool-season turfgrasses would be expected to thrive in Bogotá, Colombia.",
+    "correct": "cool",
+    "options": [
+      "warm",
+      "cool"
+    ],
+    "feedback": "Despite its near-equatorial latitude, Bogotá sits at roughly 8,600 feet elevation, giving it a cool, mild climate (average around 57°F/14°C year-round) better suited to cool-season turf.",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q056",
+    "module": "M7",
+    "question": "Indicate whether warm- or cool-season turfgrasses would be expected to thrive in Sydney, Australia.",
+    "correct": "warm",
+    "options": [
+      "warm",
+      "cool"
+    ],
+    "feedback": "Sydney has a humid subtropical climate, and lawns there are dominated by warm-season grasses such as kikuyu, buffalo, and couch (bermuda).",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q057",
+    "module": "M7",
+    "question": "The wet versus wet-and-dry climatic types (Ar vs. Aw/As) are used within a ________ climate.",
+    "correct": "tropical",
+    "options": [
+      "subarctic",
+      "temperate",
+      "subtropical",
+      "tropical"
+    ],
+    "feedback": "Wet (Ar) and wet-and-dry (Aw/As) subtypes distinguish moisture patterns within the tropical (A) climate group.",
+    "source": "M7.4: Tropical Climate",
+    "kind": "module"
+  },
+  {
+    "id": "m7q058",
+    "module": "M7",
+    "question": "The continental versus oceanic climatic types (Dc vs. Do) are used within a ________ climate.",
+    "correct": "temperate",
+    "options": [
+      "subarctic",
+      "temperate",
+      "subtropical",
+      "tropical"
+    ],
+    "feedback": "Continental (Dc) and oceanic (Do) are the two main types within the temperate (D) climate group.",
+    "source": "M7.7: Temperate Climate",
+    "kind": "module"
+  },
+  {
+    "id": "m7q059",
+    "module": "M7",
+    "question": "Orlando, Florida, has a ________ climate type.",
+    "correct": "subtropical-humid",
+    "options": [
+      "subtropical-humid",
+      "subtropical-dry summer",
+      "tropical wet",
+      "tropical wet&dry"
+    ],
+    "feedback": "Orlando is humid subtropical (Cfa), not tropical — its winter months average below the 65°F threshold this course uses for a tropical (Ar) classification, unlike year-round-warm Key West.",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q060",
+    "module": "M7",
+    "question": "Identify the climatic type (using this course's abbreviations) of Durban, South Africa.",
+    "correct": "Cf",
+    "options": [
+      "Cf",
+      "Do",
+      "Cs",
+      "Dc"
+    ],
+    "feedback": "Durban has a humid subtropical climate with rainfall year-round, classified Cf (subtropical humid) in this course's scheme.",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q061",
+    "module": "M7",
+    "question": "Identify the climatic type (using this course's abbreviations) of London, England.",
+    "correct": "Do",
+    "options": [
+      "Cf",
+      "Do",
+      "Cs",
+      "Dc"
+    ],
+    "feedback": "London has a mild, wet, temperate oceanic climate — Do — the same classification as St. Andrews, Scotland, in the module's own example.",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q062",
+    "module": "M7",
+    "question": "A climatic type with mild winters and cool summers is ________.",
+    "correct": "temperate-oceanic",
+    "options": [
+      "temperate-continental",
+      "temperate-oceanic",
+      "subarctic-continental",
+      "subarctic-oceanic"
+    ],
+    "feedback": "Temperate oceanic (Do) climates have mild, wet winters and cool summers, typically on the west side of continents.",
+    "source": "M7.7: Temperate Climate",
+    "kind": "module"
+  },
+  {
+    "id": "m7q063",
+    "module": "M7",
+    "question": "A steppe (semiarid, BS) is wetter or dryer than a desert (arid, BW)?",
+    "correct": "wetter",
+    "options": [
+      "wetter",
+      "dryer"
+    ],
+    "feedback": "Steppe (semiarid) climates receive more precipitation than desert (arid) climates; the BW/BS boundary is set at about half the humid/dry boundary's precipitation.",
+    "source": "M7.5: Dry Climate",
+    "kind": "module"
+  },
+  {
+    "id": "m7q064",
+    "module": "M7",
+    "question": "A climate in which average temperatures are at least 50°F for 4-7 months is ________.",
+    "correct": "temperate",
+    "options": [
+      "subarctic",
+      "temperate",
+      "subtropical",
+      "tropical"
+    ],
+    "feedback": "4 to 7 months above 50°F is the defining range for a temperate (D) climate.",
+    "source": "M7.7: Temperate Climate",
+    "kind": "module"
+  },
+  {
+    "id": "m7q065",
+    "module": "M7",
+    "question": "Climates in which evaporation (E) exceeds precipitation (P) are called ________.",
+    "correct": "dry",
+    "options": [
+      "hot",
+      "warm",
+      "dry",
+      "semihumid"
+    ],
+    "feedback": "Dry (B) climates are defined by evaporation exceeding precipitation (P<E).",
+    "source": "M7.5: Dry Climate",
+    "kind": "module"
+  },
+  {
+    "id": "m7q066",
+    "module": "M7",
+    "question": "A climatic type with cold winters and warm summers is ________.",
+    "correct": "temperate-continental",
+    "options": [
+      "temperate-continental",
+      "temperate-oceanic",
+      "subarctic-continental",
+      "subarctic-oceanic"
+    ],
+    "feedback": "Temperate continental (Dc) climates have relatively severe (cold) winters with summers that can be warm (a) or cool (b), unlike the mild winters of temperate oceanic climates.",
+    "source": "M7.7: Temperate Climate",
+    "kind": "module"
+  },
+  {
+    "id": "m7q067",
+    "module": "M7",
+    "question": "Indicate whether warm- or cool-season turfgrasses would be expected to thrive in Mexico City, Mexico.",
+    "correct": "warm",
+    "options": [
+      "warm",
+      "cool"
+    ],
+    "feedback": "Despite its elevation, Mexico City's subtropical latitude keeps it classified for warm-season turf — unlike Bogotá, which sits far enough into cool territory to favor cool-season grasses.",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q068",
+    "module": "M7",
+    "question": "Identify the climatic type (using this course's abbreviations) of Auckland, New Zealand.",
+    "correct": "Cf",
+    "options": [
+      "Cf",
+      "Do",
+      "Cs",
+      "Dc"
+    ],
+    "feedback": "Auckland, in the north of New Zealand, has a subtropical-humid (Cf) climate; the temperate-oceanic climate is found further south on the island.",
+    "source": "M7.10: Temperature-Based Climate Classification System",
+    "kind": "module"
+  },
+  {
+    "id": "m7q069",
+    "module": "M7",
+    "question": "A climate in which average temperatures are at least 50°F for 8-11 months is ________.",
+    "correct": "subtropical",
+    "options": [
+      "subarctic",
+      "temperate",
+      "subtropical",
+      "tropical"
+    ],
+    "feedback": "8 to 11 months above 50°F defines a subtropical (C) climate — 12 months would instead be tropical.",
+    "source": "M7.6: Subtropical Climate",
+    "kind": "module"
+  },
+  {
+    "id": "m7q070",
+    "module": "M7",
+    "question": "Indicate whether warm- or cool-season turfgrasses would be expected to thrive in Mobile, Alabama.",
+    "correct": "warm",
+    "options": [
+      "warm",
+      "cool"
+    ],
+    "feedback": "Mobile, on the Gulf Coast, has a hot, humid subtropical climate well suited to warm-season turf such as bermudagrass and St. Augustinegrass.",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q071",
+    "module": "M7",
+    "question": "Along the northwestern coast of the U.S., a ________ climatic type exists.",
+    "correct": "temperate-oceanic",
+    "options": [
+      "temperate-continental",
+      "temperate-oceanic",
+      "subarctic-continental",
+      "subarctic-oceanic"
+    ],
+    "feedback": "The Pacific Northwest coast (Oregon, Washington) has a temperate-oceanic climate.",
+    "source": "M7.10: Temperature-Based Climate Classification System",
+    "kind": "module"
+  },
+  {
+    "id": "m7q072",
+    "module": "M7",
+    "question": "The hot (a) and cool (b) subtypes are used within temperate and ________ climates only.",
+    "correct": "subtropical",
+    "options": [
+      "polar",
+      "subarctic",
+      "subtropical",
+      "tropical"
+    ],
+    "feedback": "The a/b (hot/cool) subtype distinction applies only within the temperate and subtropical climate groups, not tropical, subarctic, or polar.",
+    "source": "M7.6: Subtropical Climate",
+    "kind": "module"
+  },
+  {
+    "id": "m7q073",
+    "module": "M7",
+    "question": "Cool-season turfgrasses are generally adapted to temperate and ________ climates.",
+    "correct": "subarctic",
+    "options": [
+      "subarctic",
+      "temperate",
+      "subtropical",
+      "tropical"
+    ],
+    "feedback": "Cool-season turfgrasses are generally adapted to temperate and subarctic climates, where their C3 physiology and vernalization requirements fit the cooler thermal window.",
+    "source": "M7.3: Climatic Classification System",
+    "kind": "module"
+  },
+  {
     "id": "m8q001",
     "module": "M8",
     "question": "Every living thing is identified by two names: its species, and the ________ to which it belongs.",

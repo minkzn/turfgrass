@@ -11,6 +11,6 @@ Question counts (module-sourced + textbook-enrichment questions):
 - M4: 66 (55 module + 11 enrichment)
 - M5: 67 (67 module; richest single module, no separate enrichment needed)
 - M6: 58 (58 module; M6's assigned reading cites an edition not in the source material, so no enrichment tier)
-- M7: 53 (53 module)
+- M7: 73 (73 module — includes questions cross-checked against a real M7 Canvas quiz export)
 - M8: 45 (45 module)
 - M9: 50 (33 module + 17 enrichment)
