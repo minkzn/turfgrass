@@ -2,7 +2,7 @@
 
 ## Contents
 - `study-guide.html` — searchable/printable study guide
-- `quiz.html` — 580-question quiz, 10 at a time
+- `quiz.html` — 597-question quiz, 10 at a time
 - `questions.json` — the question bank; the union of all nine module banks (M1-M9)
 - `styles.css`
 
@@ -16,7 +16,7 @@ Each module's questions carry over 1:1 from its own module bank (`../M#/question
 - M5: 67
 - M6: 58
 - M7: 73
-- M8: 45
+- M8: 62
 - M9: 50
 
 ## Accuracy / source rules
