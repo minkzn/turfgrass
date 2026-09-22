@@ -13,4 +13,4 @@ Question counts (module-sourced + textbook-enrichment questions):
 - M6: 58 (58 module; M6's assigned reading cites an edition not in the source material, so no enrichment tier)
 - M7: 73 (73 module — includes questions cross-checked against a real M7 Canvas quiz export)
 - M8: 68 (68 module — M8.3 and M8.4 covered exhaustively, every subfamily comparison tested from both directions; cross-checked against a real M8 Canvas quiz export)
-- M9: 50 (33 module + 17 enrichment)
+- M9: 70 (53 module + 17 enrichment — every golf/athletic/lawn/utility use rating and named cultivar/field-study detail from the module pages is covered)
