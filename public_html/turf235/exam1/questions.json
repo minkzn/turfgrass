@@ -8169,6 +8169,96 @@
     "kind": "module"
   },
   {
+    "id": "m8q063",
+    "module": "M8",
+    "question": "In addition to the genus and species, the \"trinomial\" may also include the name of the:",
+    "correct": "cultivar",
+    "options": [
+      "cultivar",
+      "species",
+      "substrate",
+      "tribe"
+    ],
+    "feedback": "A trinomial adds a third component to the genus-species binomial — most often a cultivar name or other infraspecific designation.",
+    "source": "M8.6: Names",
+    "kind": "module"
+  },
+  {
+    "id": "m8q064",
+    "module": "M8",
+    "question": "Which of the following turfgrass groups are all members of the Pooideae subfamily?",
+    "correct": "bluegrass, bentgrass, fescues",
+    "options": [
+      "bluegrass, bentgrass, fescues",
+      "buffalograss, bahiagrass, bentgrass",
+      "bluegrass, ryegrass, zoysiagrass",
+      "St. Augustinegrass, centipedegrass, ryegrass"
+    ],
+    "feedback": "Bluegrass (Poa), bentgrass (Agrostis), and fescue (Festuca) are all pooid genera; the other option sets each mix in a chloridoid or panicoid genus like buffalograss, zoysiagrass, St. Augustinegrass, or centipedegrass.",
+    "source": "M8.3: Turfgrass Taxonomy",
+    "kind": "module"
+  },
+  {
+    "id": "m8q065",
+    "module": "M8",
+    "question": "The name of the person responsible for identifying and describing a species, abbreviated after the Latin binomial, is called the:",
+    "correct": "authority",
+    "options": [
+      "authority",
+      "glossary",
+      "compendium",
+      "reference"
+    ],
+    "feedback": "This abbreviation — for example, \"L.\" for Linnaeus — is called the authority.",
+    "source": "M8.5: Latin Binomial and Authorities",
+    "kind": "module"
+  },
+  {
+    "id": "m8q066",
+    "module": "M8",
+    "question": "Bermudagrasses (Cynodon) are members of the ________ subfamily.",
+    "correct": "chloridoid",
+    "options": [
+      "chloridoid",
+      "panicoid",
+      "pooid",
+      "festucoid"
+    ],
+    "feedback": "Cynodon (bermudagrasses) belongs to the Chlorideae tribe, the sole tribe of the Chloridoideae (chloridoid) subfamily.",
+    "source": "M8.3: Turfgrass Taxonomy",
+    "kind": "module"
+  },
+  {
+    "id": "m8q067",
+    "module": "M8",
+    "question": "Some warm-season turfgrasses, such as St. Augustinegrass and centipedegrass, belong to the ________ subfamily.",
+    "correct": "panicoid",
+    "options": [
+      "panicoid",
+      "pooid",
+      "bromucoid",
+      "agrosticoid"
+    ],
+    "feedback": "St. Augustinegrass and centipedegrass are both panicoid genera, in the Paniceae and Rottboellinae tribes respectively.",
+    "source": "M8.3: Turfgrass Taxonomy",
+    "kind": "module"
+  },
+  {
+    "id": "m8q068",
+    "module": "M8",
+    "question": "The environmental adaptation of cool-season turfgrasses is limited primarily by the intensity and duration of ________ and ________ stresses.",
+    "correct": "heat & drought",
+    "options": [
+      "heat & drought",
+      "heat & cold",
+      "cold & drought",
+      "wind & heat"
+    ],
+    "feedback": "Cool-season turfgrasses' geographic range is limited mainly by how intense and how long heat and drought stress periods run.",
+    "source": "M8 Quiz",
+    "kind": "module"
+  },
+  {
     "id": "m9q001",
     "module": "M9",
     "question": "Kentucky bluegrass (Poa pratensis) is described as the most widely used perennial turfgrass in temperate-continental and subarctic climates, but it is not very shade tolerant nor well adapted to:",
