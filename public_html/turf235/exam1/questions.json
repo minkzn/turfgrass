@@ -1124,6 +1124,21 @@
     "kind": "enrichment"
   },
   {
+    "id": "m1q076",
+    "module": "M1",
+    "question": "Above-ground horizontally growing shoots are called:",
+    "correct": "stolons",
+    "options": [
+      "stolons",
+      "rhizomes",
+      "tillers",
+      "culms"
+    ],
+    "feedback": "Above-ground, horizontally growing shoots that root and form new plants at the nodes are called stolons.",
+    "source": "M1 Quiz",
+    "kind": "module"
+  },
+  {
     "id": "m2q001",
     "module": "M2",
     "question": "The lower portion of a grass leaf, tightly rolled or folded around the shoot's main axis, is called the:",
@@ -2240,6 +2255,51 @@
     "kind": "enrichment"
   },
   {
+    "id": "m2q077",
+    "module": "M2",
+    "question": "A thin, transparent, waxy layer covering the entire leaf surface is called the:",
+    "correct": "cuticle",
+    "options": [
+      "cuticle",
+      "varnish",
+      "leaf coat",
+      "epidermis"
+    ],
+    "feedback": "The cuticle is a thin, transparent, waxy layer that covers the entire outer leaf surface.",
+    "source": "M2 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m2q078",
+    "module": "M2",
+    "question": "The leaf tip of creeping bentgrass is:",
+    "correct": "pointed",
+    "options": [
+      "pointed",
+      "rounded",
+      "boat-shaped",
+      "truncate"
+    ],
+    "feedback": "Creeping bentgrass has a pointed leaf tip, consistent with the pointed tips typical of bentgrasses generally.",
+    "source": "M2 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m2q079",
+    "module": "M2",
+    "question": "A flowering shoot is said to be in the ________ stage of growth.",
+    "correct": "reproductive",
+    "options": [
+      "reproductive",
+      "vegetative",
+      "floral",
+      "photosynthetic"
+    ],
+    "feedback": "Once a shoot initiates flowering, it has transitioned from the vegetative to the reproductive stage of growth.",
+    "source": "M2 Quiz",
+    "kind": "module"
+  },
+  {
     "id": "m3q001",
     "module": "M3",
     "question": "The highly compressed, unelongated stem at the base of an aerial shoot, hidden among the leaves, is called the:",
@@ -3097,14 +3157,14 @@
     "id": "m3q058",
     "module": "M3",
     "question": "The life of an individual turfgrass shoot is usually not more than:",
-    "correct": "1 year",
+    "correct": "1 week",
     "options": [
       "1 year",
       "1 week",
       "1 month",
       "5 years"
     ],
-    "feedback": "The life of an individual shoot is usually not more than 1 year, and frequently less; the plant community persists as dying shoots are replaced by new ones.",
+    "feedback": "The life of an individual turfgrass shoot (tiller) is usually not more than 1 week, and frequently less; the plant community persists as dying shoots are replaced by new ones.",
     "source": "Textbook Ch. 2, pp. 21-31: Growth and Development",
     "kind": "enrichment"
   },
@@ -3287,6 +3347,66 @@
     "feedback": "Root decay begins in the cortex and eventually spreads to the stele; the cortex may slough off entirely (decortication) in older root portions.",
     "source": "Textbook Ch. 2, pp. 21-31: Growth and Development",
     "kind": "enrichment"
+  },
+  {
+    "id": "m3q071",
+    "module": "M3",
+    "question": "Most root growth of warm-season turfgrasses occurs in the ________ months.",
+    "correct": "summer",
+    "options": [
+      "summer",
+      "spring",
+      "fall",
+      "winter"
+    ],
+    "feedback": "Warm-season turfgrass root growth is concentrated in the summer months, aligning with their peak shoot growth.",
+    "source": "M3 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m3q072",
+    "module": "M3",
+    "question": "Most root growth of cool-season grasses occurs in:",
+    "correct": "spring & fall",
+    "options": [
+      "spring & fall",
+      "summer & fall",
+      "winter & spring",
+      "spring & summer"
+    ],
+    "feedback": "Cool-season turfgrass root growth peaks in spring and fall, avoiding the summer heat that suppresses it.",
+    "source": "M3 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m3q073",
+    "module": "M3",
+    "question": "Tillers formed in the fall may be important for ________ growth.",
+    "correct": "spring",
+    "options": [
+      "spring",
+      "winter",
+      "summer",
+      "fall"
+    ],
+    "feedback": "Fall-formed tillers carry the plant through winter and contribute to vigorous spring growth.",
+    "source": "M3 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m3q074",
+    "module": "M3",
+    "question": "Storage of photoassimilates occurs principally in the:",
+    "correct": "crowns",
+    "options": [
+      "crowns",
+      "leaves",
+      "sheaths",
+      "roots"
+    ],
+    "feedback": "Crowns are the principal storage site for photoassimilates in the turfgrass plant.",
+    "source": "M3 Quiz",
+    "kind": "module"
   },
   {
     "id": "m4q001",
@@ -4277,6 +4397,36 @@
     "feedback": "Devernalization can reverse the vernalization effect under high-temperature conditions.",
     "source": "Textbook Ch. 2, pp. 19-22, 31-34: Growth and Development",
     "kind": "enrichment"
+  },
+  {
+    "id": "m4q067",
+    "module": "M4",
+    "question": "If seeds are buried too deeply in the soil, their food reserves may become depleted, resulting in seedling:",
+    "correct": "mortality",
+    "options": [
+      "mortality",
+      "chlorosis",
+      "suppression",
+      "etiolation"
+    ],
+    "feedback": "Seeds buried too deeply may exhaust their food reserves before reaching the surface, resulting in seedling mortality.",
+    "source": "M4 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m4q068",
+    "module": "M4",
+    "question": "The germination process begins with the absorption of water by the seed, resulting in the production of ________ enzymes.",
+    "correct": "hydrolitic",
+    "options": [
+      "hydrolitic",
+      "linolitic",
+      "carbolitic",
+      "oxylitic"
+    ],
+    "feedback": "Water absorption triggers the production of hydrolytic enzymes that mobilize the seed's stored food reserves.",
+    "source": "M4 Quiz",
+    "kind": "module"
   },
   {
     "id": "m5q001",
@@ -5281,6 +5431,21 @@
     ],
     "feedback": "Both Stage 4 (late-spring) and Stage 6 (late-summer) recuperative growth stages are favorable windows for hollow-tine cultivation.",
     "source": "M5.10: Stage 6 - Late-summer Recuperative Growth",
+    "kind": "module"
+  },
+  {
+    "id": "m5q068",
+    "module": "M5",
+    "question": "The biotype of annual bluegrass that is least likely to survive summer conditions is the:",
+    "correct": "wild type",
+    "options": [
+      "wild type",
+      "perennial type",
+      "greens type",
+      "turf type"
+    ],
+    "feedback": "The annual wild-type biotype, which partitions most of its resources into seed-head production, is least likely to survive summer stress.",
+    "source": "M5 Quiz",
     "kind": "module"
   },
   {
@@ -7146,7 +7311,7 @@
       "warm",
       "cool"
     ],
-    "feedback": "Despite its elevation, Mexico City's subtropical latitude keeps it classified for warm-season turf — unlike Bogotá, which sits far enough into cool territory to favor cool-season grasses.",
+    "feedback": "Despite its elevation, Mexico City's tropical latitude keeps it classified for warm-season turf, like Bogotá.",
     "source": "M7 Quiz",
     "kind": "module"
   },
@@ -7236,6 +7401,58 @@
     ],
     "feedback": "Cool-season turfgrasses are generally adapted to temperate and subarctic climates, where their C3 physiology and vernalization requirements fit the cooler thermal window.",
     "source": "M7.3: Climatic Classification System",
+    "kind": "module"
+  },
+  {
+    "id": "m7q074",
+    "module": "M7",
+    "question": "Indicate whether warm- or cool-season turfgrasses would be expected to thrive in Moscow, Russia.",
+    "correct": "cool",
+    "options": [
+      "warm",
+      "cool"
+    ],
+    "feedback": "Moscow has a subarctic-continental climate with cold winters and short summers, favoring cool-season turf.",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q075",
+    "module": "M7",
+    "question": "Indicate whether warm- or cool-season turfgrasses would be expected to thrive in Quebec, Canada.",
+    "correct": "cool",
+    "options": [
+      "warm",
+      "cool"
+    ],
+    "feedback": "Quebec's subarctic climate, with average temperatures above 50°F for only a few months, favors cool-season turf.",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q076",
+    "module": "M7",
+    "question": "Indicate whether warm- or cool-season turfgrasses would be expected to thrive in Hong Kong.",
+    "correct": "warm",
+    "options": [
+      "warm",
+      "cool"
+    ],
+    "feedback": "Hong Kong has a humid subtropical climate well suited to warm-season turf.",
+    "source": "M7 Quiz",
+    "kind": "module"
+  },
+  {
+    "id": "m7q077",
+    "module": "M7",
+    "question": "Indicate whether warm- or cool-season turfgrasses would be expected to thrive in Jakarta, Indonesia.",
+    "correct": "warm",
+    "options": [
+      "warm",
+      "cool"
+    ],
+    "feedback": "Jakarta has a tropical climate, essentially frost-free year-round, favoring warm-season turf.",
+    "source": "M7 Quiz",
     "kind": "module"
   },
   {
