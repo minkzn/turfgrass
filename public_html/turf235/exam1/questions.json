@@ -8397,7 +8397,7 @@
       "tribe"
     ],
     "feedback": "A trinomial adds a third component to the genus-species binomial — most often a cultivar name or other infraspecific designation.",
-    "source": "M8.6: Names",
+    "source": "M8 Quiz",
     "kind": "module"
   },
   {
@@ -8412,7 +8412,7 @@
       "St. Augustinegrass, centipedegrass, ryegrass"
     ],
     "feedback": "Bluegrass (Poa), bentgrass (Agrostis), and fescue (Festuca) are all pooid genera; the other option sets each mix in a chloridoid or panicoid genus like buffalograss, zoysiagrass, St. Augustinegrass, or centipedegrass.",
-    "source": "M8.3: Turfgrass Taxonomy",
+    "source": "M8 Quiz",
     "kind": "module"
   },
   {
@@ -8427,7 +8427,7 @@
       "reference"
     ],
     "feedback": "This abbreviation — for example, \"L.\" for Linnaeus — is called the authority.",
-    "source": "M8.5: Latin Binomial and Authorities",
+    "source": "M8 Quiz",
     "kind": "module"
   },
   {
@@ -8442,7 +8442,7 @@
       "festucoid"
     ],
     "feedback": "Cynodon (bermudagrasses) belongs to the Chlorideae tribe, the sole tribe of the Chloridoideae (chloridoid) subfamily.",
-    "source": "M8.3: Turfgrass Taxonomy",
+    "source": "M8 Quiz",
     "kind": "module"
   },
   {
@@ -8457,7 +8457,7 @@
       "agrosticoid"
     ],
     "feedback": "St. Augustinegrass and centipedegrass are both panicoid genera, in the Paniceae and Rottboellinae tribes respectively.",
-    "source": "M8.3: Turfgrass Taxonomy",
+    "source": "M8 Quiz",
     "kind": "module"
   },
   {
@@ -9537,7 +9537,7 @@
       "droughty soils of high fertility and sunny microclimates"
     ],
     "feedback": "Annual bluegrass is best adapted to moist soils of moderate fertility in lightly shaded microclimates.",
-    "source": "M9.6: Annual Bluegrass",
+    "source": "M9 Quiz",
     "kind": "module"
   },
   {
@@ -9552,7 +9552,7 @@
       "mowing at 3.0\", N fertilization at 4 lbs/Kft², and no irrigation"
     ],
     "feedback": "Rough bluegrass responds best to low mowing (0.5\"), moderate nitrogen (4 lbs/Kft²), and frequent irrigation — consistent with its preference for consistently moist soil.",
-    "source": "M9.8: Rough Bluegrass",
+    "source": "M9 Quiz",
     "kind": "module"
   },
   {
@@ -9567,7 +9567,7 @@
       "mowing at 1.0\", N fertilization at 8 lbs/Kft², and no irrigation"
     ],
     "feedback": "Annual bluegrass responds best to close mowing (0.5\"), moderate nitrogen (3 lbs/Kft²), and frequent irrigation to survive stress periods.",
-    "source": "M9.6: Annual Bluegrass",
+    "source": "M9 Quiz",
     "kind": "module"
   },
   {
@@ -9582,7 +9582,7 @@
       "stoloniferous growth, ridged adaxial leaf blades, and rolled vernation"
     ],
     "feedback": "Kentucky bluegrass has rhizomatous growth, a smooth adaxial leaf surface, and folded vernation.",
-    "source": "M9.2: Kentucky Bluegrass",
+    "source": "M9 Quiz",
     "kind": "module"
   },
   {
@@ -9597,7 +9597,7 @@
       "mowing at 1.0\", N fertilization at 4 lbs/Kft², and no irrigation"
     ],
     "feedback": "Kentucky bluegrass responds best to a mid-range mowing height (1.5\"), moderate nitrogen (4 lbs/Kft²), and moderate irrigation.",
-    "source": "M9.2: Kentucky Bluegrass",
+    "source": "M9 Quiz",
     "kind": "module"
   },
   {
@@ -9612,7 +9612,7 @@
       "lawn turf for recreation and landscape beautification"
     ],
     "feedback": "Rough bluegrass's best-adapted use is overseeding dormant bermudagrass turf for winter color and play in subtropical climates.",
-    "source": "M9.1: Overview",
+    "source": "M9 Quiz",
     "kind": "module"
   },
   {
@@ -9627,7 +9627,7 @@
       "dull abaxial leaf and tapering leaf blades"
     ],
     "feedback": "Rough bluegrass has a glossy abaxial leaf surface and tapering leaf blades, unlike annual bluegrass's dull abaxial surface and parallel-sided blades.",
-    "source": "M9.8: Rough Bluegrass",
+    "source": "M9 Quiz",
     "kind": "module"
   },
   {
@@ -9642,7 +9642,7 @@
       "droughty soils of high fertility and heavily shaded microclimates"
     ],
     "feedback": "Kentucky bluegrass is best adapted to well-drained, moist, fertile soils in sunny or lightly shaded sites — not wet or heavily shaded ones.",
-    "source": "M9.2: Kentucky Bluegrass",
+    "source": "M9 Quiz",
     "kind": "module"
   },
   {
@@ -9657,7 +9657,7 @@
       "small truncate ligule, boat-shaped leaf tip, glossy abaxial leaf blades"
     ],
     "feedback": "Annual bluegrass has a comparatively long, pointed ligule (not the short, truncate ligule of Kentucky bluegrass), a boat-shaped leaf tip, and a dull abaxial leaf surface.",
-    "source": "M9.6: Annual Bluegrass",
+    "source": "M9 Quiz",
     "kind": "module"
   },
   {
@@ -9672,7 +9672,7 @@
       "athletic-field turf for firm footing and player safety"
     ],
     "feedback": "Annual bluegrass is best adapted for use as golf turf, particularly on greens, tees, and fairways where pitching and putting occur.",
-    "source": "M9.6: Annual Bluegrass",
+    "source": "M9 Quiz",
     "kind": "module"
   }
 ]
